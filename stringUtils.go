@@ -11,3 +11,4 @@ func Trim(str string) string {
 func ToLower(str string) string {
         return ToLower(str)
 }
+
